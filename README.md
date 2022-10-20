@@ -218,8 +218,10 @@
 
 ---
 ## About Me
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Machine Learning and Data Science using python
+- 👋 Hi, my name is Richardson
+- 👋 I'm a Data Analyst and Python Programmer
+- 👀 I’m interested in Data and Business Analytics, Data Engineering and Data Science
+- 🌱 I currently use Python to complement SQL and Power BI in data querrying, manipulation and visualization
 - 💞️ I’m looking to collaborate on any development project 
 - 📫 How to reach me: richieans12@gmail.com
 
